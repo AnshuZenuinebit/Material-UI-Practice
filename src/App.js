@@ -7,7 +7,7 @@ function App() {
   
   return (
     <div className='App'>
-      <h1>React-MUI</h1>
+      <h1>React-Material-UI</h1>
       
       <Button color='primary'
       variant='contained'
